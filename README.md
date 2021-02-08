@@ -6,4 +6,4 @@ I'm
 - 🔎 An incoming Microsoft intern.
 - 🌱 A former Amazon and Intuit intern.
 - 📫 Available at ataupill[at]ualberta[dot]ca or on [LinkedIn](https://www.linkedin.com/in/lidia-ataupillco/) 
-- 🎊 Graduating in December 2021
+- 🎊 Graduating in May 2022
