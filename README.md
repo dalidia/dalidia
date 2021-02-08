@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm
-- 🔭 3rd year CS at the University of Alberta.
+- 🔭 4th year CS at the University of Alberta.
 - 👯 Experienced with full-stack software development
 - 🔎 An incoming Microsoft intern.
 - 🌱 A former Amazon and Intuit intern.
