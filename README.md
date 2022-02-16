@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm
-- 🔭 4th year CS at the University of Alberta.
+- 🔭 5th year CS at the University of Alberta.
 - 👯 Experienced with full-stack software development
-- 🌱 A former Amazon and Intuit intern.
+- 🌱 A former Microsoft (2021), Amazon (2020) and Intuit (2020) intern.
 - 📫 Available at ataupill[at]ualberta[dot]ca or on [LinkedIn](https://www.linkedin.com/in/lidia-ataupillco/) 
 - 🎊 Graduating in May 2022
